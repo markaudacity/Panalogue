@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Connector_Mini-DIN") (type "KiCad") (uri "${KICAD_USER_DIR}/footprints/Connector_Mini-DIN.pretty") (options "") (descr ""))
+)
